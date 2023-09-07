@@ -19,5 +19,4 @@ class User:
             'email': self.email,
             'password': self.password,
         }
-
-users_collection = mongo.db.users
+# users_collection = mongo.db.users
